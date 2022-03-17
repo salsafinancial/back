@@ -7,7 +7,7 @@ To start your Phoenix server:
   * Install Node.js dependencies with `cd assets && npm install`
   * Start Phoenix endpoint with `mix phx.server`
 
-# Environment Variables
+# Enviroment Variables
 
 These variables must be executed for microservice startup.
 
